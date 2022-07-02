@@ -24,17 +24,17 @@
 }
 
 {
-    "name": "tahiratta/woostify",
+    "name": "lukesnow91/woostify",
     "description": "",
     "keywords": [
         "wordpress",
         "theme"
     ],
-    "homepage": "https://github.com/tahiratta/woostify",
+    "homepage": "https://github.com/lukesnow91/woostify",
     "authors": [
         {
             "name": "Woostify",
-            "homepage": "https://eileenlue.com"
+            "homepage": "https://spiritutopia.com"
         }
     ],
     "type": "wordpress-theme",
