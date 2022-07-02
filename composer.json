@@ -1,4 +1,24 @@
 {
+    "name": "lukesnow91/woostify",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "theme"
+    ],
+    "homepage": "https://github.com/lukesnow91/woostify",
+    "authors": [
+        {
+            "name": "Woostify",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">5.6"
+    }
+}
+
+{
   "description": "Import site demos built with Woostify theme",
   "keywords": ["wp", "wordpress", "theme", "onboarding", "import", "content"],
   "license": "GPLv2",
@@ -21,24 +41,4 @@
     "monolog/monolog": "^1.23",
     "appsero/client": "^1.2"
   }
-}
-
-{
-    "name": "lukesnow91/woostify",
-    "description": "",
-    "keywords": [
-        "wordpress",
-        "theme"
-    ],
-    "homepage": "https://github.com/lukesnow91/woostify",
-    "authors": [
-        {
-            "name": "Woostify",
-            "homepage": "https://spiritutopia.com"
-        }
-    ],
-    "type": "wordpress-theme",
-    "require": {
-        "php": ">5.6"
-    }
 }
