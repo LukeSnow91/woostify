@@ -1,20 +1,19 @@
 {
-  "name": "lukesnow91/woostify",
-  "description": "Import site demos built with Woostify theme",
-  "keywords": ["wp", "wordpress", "theme", "onboarding", "import", "content"],
-  "homepage": "https://github.com/lukesnow91/woostify",
-  "license": "GPLv2",
-  "authors": [
-    {
-      "name"     : "Woostify",
-      "homepage": "https://spiritutopia.com"
+    "name": "lukesnow91/woostify",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "theme"
+    ],
+    "homepage": "https://github.com/lukesnow91/woostify",
+    "authors": [
+        {
+            "name": "Woostify",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">5.6"
     }
-  ],
-  "type": "wordpress-theme",
-  "require": {
-    "proteusthemes/wp-content-importer-v2": "^2.1.0",
-    "monolog/monolog": "^1.23",
-    "appsero/client": "^1.2",
-    "php": ">5.6"
-  }
 }
